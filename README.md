@@ -1,1 +1,1 @@
-# boxcube-bot
+# boxcube-discord-bot
